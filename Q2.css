@@ -1,0 +1,20 @@
+.box {
+    margin: 300px 300px 300px 300px;
+    border: 2px solid black;
+    padding: 20px;
+    background-color: rgb(14, 226, 230);
+    width:50%;
+}
+
+h1 {
+    margin-bottom: 10px;
+    font-size: 30px;
+    text-align: center;
+    color: rgb(118, 1, 1);
+}
+
+p {
+    font-size: 20px;
+    text-align: center;
+    color: rgb(7, 57, 156);
+}

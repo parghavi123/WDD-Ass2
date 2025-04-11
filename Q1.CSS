@@ -1,0 +1,25 @@
+* {
+   
+    background-color: rgb(17, 149, 238);
+}
+h1 {
+    color: rgb(0,99, 5);
+    font-size: 32px;
+    text-align: center;
+}
+.intro {
+    text-align: center; 
+    background-color: rgb(113, 223, 83);
+    padding: 20px;
+    border: 5px solid rgb(125, 14, 61);
+    border-radius: 50px;
+    border-style: groove;
+}
+
+#content {
+    text-align: center;
+    background-color: rgb(183, 32, 125);
+    padding: 20px;
+    margin-top: 15px;
+    border-radius: 70px;
+}
